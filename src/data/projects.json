@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Gemini-clone",
+    "imageSrc": "projects/project.png",
+    "description": "Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS..",
+    "skills": ["React", "Javascript", "Html","Css"],
+    "source": "https://github.com/Yaswanth0210/gemini-clone"
+  },
+  {
+    "title": "Quote-Generator",
+    "imageSrc": "projects/qg.png",
+    "description": "A Random Quote Generator is capable of pulling quotes randomly from an API,adatabase simply from an array so you can find the right quotes ",
+    "skills": ["Javascript", "Html","Css"],
+    "source": "https://github.com/Yaswanth0210/Quotegenrator"
+  }
+
+
+  
+]
